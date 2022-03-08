@@ -1,14 +1,12 @@
 # EveryWordle
-![image](https://github.com/anuwhub/EveryWordle/blob/main/icons/96.png?raw=true)
+![image](https://github.com/anuwhub/EveryWordle/blob/main/icons/96.png?raw=true)  
+<sub>Thanks [@lucisalem](https://github.com/lucisalem) for the icon</sub>
 
-EveryWordle allows you to manually select what day of Wordle you'd like to play. 
-
-Slept in and missed a Wordle? Just click the back arrow and Go!
-
+EveryWordle allows you to manually select what day of Wordle you'd like to play.  
+Slept in and missed a Wordle? Just click the back arrow and Go!  
 <img src="https://user-images.githubusercontent.com/60380944/157158061-92da0730-151b-49ed-9e43-c17b554d1f5a.png" width="200">
 
-Play any Wordle from day 0 to doomsday
-
+Play any Wordle from day 0 to doomsday  
 <img src="https://user-images.githubusercontent.com/60380944/157158650-59f0aa8e-1c65-493a-bb75-061898a414c5.png" width="200">
 
 ## Installation Instructions
