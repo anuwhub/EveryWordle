@@ -5,11 +5,11 @@ EveryWordle allows you to manually select what day of Wordle you'd like to play.
 
 Slept in and missed a Wordle? Just click the back arrow and Go!
 
-![image](https://user-images.githubusercontent.com/60380944/157158061-92da0730-151b-49ed-9e43-c17b554d1f5a.png)
+<img src="https://user-images.githubusercontent.com/60380944/157158061-92da0730-151b-49ed-9e43-c17b554d1f5a.png" width="200">
 
 Play any Wordle from day 0 to doomsday
 
-![image](https://user-images.githubusercontent.com/60380944/157158650-59f0aa8e-1c65-493a-bb75-061898a414c5.png)
+<img src="https://user-images.githubusercontent.com/60380944/157158650-59f0aa8e-1c65-493a-bb75-061898a414c5.png" width="200">
 
 ## Installation Instructions
 ### [Chromium browsers](https://en.wikipedia.org/wiki/Chromium_(web_browser)#Active)
