@@ -1,0 +1,30 @@
+{
+    "manifest_version": 2,
+    "name": "Every Wordle",
+    "version": "1.0.0",
+  
+    "description": "Tired of waiting? Missed a day? Unlock all 2000+ days of Wordle.",
+
+    "icons": {
+      "48": "icons/48.png",
+      "96": "icons/96.png"
+    },
+
+    "permissions": [
+      "webRequest",
+      "https://www.nytimes.com/games/wordle/index.html*",
+      "webRequestBlocking"
+    ],
+
+    "background": {
+      "scripts": ["background.js"]
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["https://www.nytimes.com/games/wordle/index.html*"],
+        "js": ["main.js"],
+        "run_at": "document_start"
+      }
+    ]
+  }
