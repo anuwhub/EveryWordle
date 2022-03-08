@@ -11,14 +11,14 @@ Play any Wordle from day 0 to doomsday
 
 ## Installation Instructions
 ### [Chromium browsers](https://en.wikipedia.org/wiki/Chromium_(web_browser)#Active)
-- Under [releases](https://github.com/anuwhub/EveryWordle/releases) download the latest release (.zip)
+- Under [releases](https://github.com/anuwhub/EveryWordle/releases) download the latest release (EveryWordle.zip)
 - Go to `chrome://extensions`
 - Ensure `Developer mode` at the top right of the page is turned on
 - Drag `EveryWordle.zip` onto the page
 - You should have successfully installed EveryWordle!
 
 ### Firefox
-- Under [releases](https://github.com/anuwhub/EveryWordle/releases) download the latest release (.zip)
+- Under [releases](https://github.com/anuwhub/EveryWordle/releases) download the latest release (EveryWordle.zip)
 - Go to `about:debugging#/runtime/this-firefox`
 - Click on `Load Temporary Add-on...`
 - Select `EveryWordle.zip`
